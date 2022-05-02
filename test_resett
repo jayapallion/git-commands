@@ -1,0 +1,7 @@
+check reset command
+git reset --hard                  it takes both head and main(branch name) to previous commit, it clears commit, staging area, working directory
+git reset --hard <commit id>      it takes to head and main(branch name) to the particular commit id
+git reset --mixed                 it clears staging area and commit
+git reset --soft                  it clears commit 
+git reset <name of file>          to unstage particular file from staging area
+git checkout <commit id>          it changes head to particular commit id but main (branch) remains unchanged means it is detached head
