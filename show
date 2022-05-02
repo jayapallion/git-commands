@@ -1,0 +1,3 @@
+git show <commit id>             to show content in particular commit id
+git show -a                       to show all the content
+
