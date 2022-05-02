@@ -1,0 +1,3 @@
+git log                           to show commits
+git log --oneline                 to show commit list in oneline
+
